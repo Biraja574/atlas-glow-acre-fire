@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aether Workstation",
+      "hasCanvas": false,
+      "bodyTextLen": 1165,
+      "bodyTextHash": "ce826c8ebfa4be7b6eeeb94b26ecee928907bd629541d5165fe6f5453fa0bd19",
+      "bodyTextPrefix": "Aether Workstation New VM Search inventory Ctrl K admin Hosts VM",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aether Workstation",
+      "hasCanvas": false,
+      "bodyTextLen": 885,
+      "bodyTextHash": "303c0c288c6300f383c60a57c35857943aabf5e3e48bd95aea3a7fd11ce3ccec",
+      "bodyTextPrefix": "Search inventory Aether Datacenter Connected to vcenter.aether.l",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
